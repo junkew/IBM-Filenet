@@ -1,0 +1,16 @@
+query q_metadata {
+  __schema {
+    types {
+      name
+    }
+  }
+}
+
+query q_folders {
+  folder(repositoryIdentifier: "ewtrial", identifier: "//") {
+    id
+    name
+    pathName  
+    subFolders{folders{name}}
+  }
+}
