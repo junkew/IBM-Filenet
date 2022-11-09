@@ -14,3 +14,24 @@ query q_folders {
     subFolders{folders{name}}
   }
 }
+
+query q_documents {
+  documents(
+    repositoryIdentifier:"ewtrial"
+    from:"Document"
+    orderBy:"DocumentTitle"
+    pageSize:20
+  ) {
+    documents {
+      dateCreated
+      id
+      name
+      majorVersionNumber
+      minorVersionNumber
+      mimeType
+    }
+    pageInfo {
+      token
+    }
+  }
+}
