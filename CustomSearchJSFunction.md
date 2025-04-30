@@ -1,7 +1,8 @@
 Within ACCE menu events,actions,processes --> Search Function Defintions
 There you can add a new javascript function like below that formats dates
 
-```    function getFunctionName() {  return "cmCustom::FormatDate";}
+```    
+    function getFunctionName() {  return "cmCustom::FormatDate";}
     function requiresTransaction() { return false;}
     function validate(sfd, paramTypes) {
           throw "cmCustom::FormatDate requires exactly 2 parameters: a Date and a format string.";
