@@ -4196,8 +4196,7 @@ Start
 │     │     │     │     │        ├─ Ja → Formeel beheerde informatiecontext
 │     │     │     │     │        └─ Nee → Werkmateriaal / tijdelijk
 
-```
-
+```markdown
 # Bijlage C. Zelftest
 
 > **Van lezen naar begrijpen**  
