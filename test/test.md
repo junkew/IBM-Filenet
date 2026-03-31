@@ -3469,7 +3469,8 @@ flowchart LR
 > **Hoofdstuksamenvatting**  
 > Een succesvolle implementatie van zaakgericht werken begint niet bij software, maar bij een gedeelde opgave en een scherp begrip van proces, informatie en verantwoordelijkheid. Pas daarna volgen architectuur, standaarden, platformkeuzes en adoptie.
 >
-> ```markdown
+> ```
+
 # 22. Praktische valkuilen en ontwerpprincipes
 
 > **Veel mislukkingen zijn voorspelbaar**  
@@ -4196,7 +4197,8 @@ Start
 │     │     │     │     │        ├─ Ja → Formeel beheerde informatiecontext
 │     │     │     │     │        └─ Nee → Werkmateriaal / tijdelijk
 
-```markdown
+```
+
 # Bijlage C. Zelftest
 
 > **Van lezen naar begrijpen**  
