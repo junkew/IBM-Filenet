@@ -3698,7 +3698,8 @@ flowchart TD
     G[Valkuil: generiek case management] --> H[Principe: publieke specificatie]
     I[Valkuil: Woo achteraf] --> J[Principe: openbaarheid in ontwerp]
 
-```markdown
+```
+
 # 23. Samenvatting per rol
 
 > **Niet iedereen hoeft alles te doen, maar iedereen moet het geheel begrijpen**  
@@ -3863,7 +3864,8 @@ mindmap
       Verbinden
       Vertalen
 
-```markdown
+```
+
 # 24. Slotbeschouwing: van zaakgericht werken naar bestuurlijk betrouwbare uitvoering
 
 > **De burger centraal is geen slogan, maar een ontwerpopdracht**  
@@ -4006,7 +4008,8 @@ flowchart TD
     D --> E[Verantwoording]
     E --> F[Transparantie en duurzame toegankelijkheid]
 
-```markdown
+```
+
 # Bijlage A. Lexicon
 
 > **Begrippen helder krijgen voorkomt ontwerpfouten**  
@@ -4193,7 +4196,8 @@ Start
 │     │     │     │     │        ├─ Ja → Formeel beheerde informatiecontext
 │     │     │     │     │        └─ Nee → Werkmateriaal / tijdelijk
 
-```markdown
+```
+
 # Bijlage C. Zelftest
 
 > **Van lezen naar begrijpen**  
